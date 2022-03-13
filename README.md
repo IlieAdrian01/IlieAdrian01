@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IlieAdrian01
-- 👀 I’m interested in ... web development !
-- 🌱 I’m currently learning ...how to code !
+- 👀 I’m interested in web development !
+- 🌱 I’m currently learning how to code !
 
 
 <!---
