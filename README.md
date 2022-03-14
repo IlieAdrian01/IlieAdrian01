@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IlieAdrian01
+- 👋 Hi, I’m Adrian !
 - 👀 I’m interested in web development !
 - 🌱 I’m currently learning how to code !
 
